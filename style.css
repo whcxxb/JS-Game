@@ -1,0 +1,9 @@
+#can {
+  width: 600px;
+  height: 600px;
+  border: 2px solid black;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
